@@ -16,4 +16,5 @@ This is my solution to the Homework assignment belongs to Futurice Academy appli
   7. Test Model
   8. Conclusion
 
+Note: If you cannot view the image inside the notebook file, please look for it under the name 'model_architect.png' in the same folder.
 More info can be found inside the notebook file.
